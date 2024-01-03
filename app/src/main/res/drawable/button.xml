@@ -4,7 +4,7 @@
     <gradient
         android:type="sweep"
         android:endColor="@color/button"
-        android:startColor="@color/black"
+        android:startColor="@color/button_2"
         />
     <corners
         android:radius="10.0dip"
